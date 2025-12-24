@@ -78,7 +78,8 @@ Data Source → NavBar Component → Story Components
 <img width="1467" height="819" alt="image" src="https://github.com/user-attachments/assets/4d136cf1-9f97-40fc-a321-d24d06fa4350" />
 <img width="1470" height="816" alt="image" src="https://github.com/user-attachments/assets/bc383fd7-a08c-41fd-88e5-0226c59eae8d" />
 <img width="1470" height="814" alt="image" src="https://github.com/user-attachments/assets/8a6e8b99-b354-44b4-b1e8-1e3125d1f904" />
-<img width="1463" height="814" alt="image" src="https://github.com/user-attachments/assets/961a154c-9c99-4550-8969-17bab6a7c7aa" />
+<img width="1469" height="819" alt="image" src="https://github.com/user-attachments/assets/49e88318-7b2d-4b8d-a10d-c9e6e52dbd38" />
+
 <img width="1454" height="755" alt="image" src="https://github.com/user-attachments/assets/c31ecca3-62f9-47a6-8f3c-338af8e33864" />
 
 
@@ -120,6 +121,7 @@ npm run dev
 CSE Undergraduate (3rd Year)
 Focused on building **clean, scalable, and visually precise React applications**.
 
+
 ---
 
 ## 🧠 Project Philosophy
@@ -127,5 +129,15 @@ Focused on building **clean, scalable, and visually precise React applications**
 > **Clarity in structure leads to confidence in scale.**
 
 This project reflects an emphasis on **code organization**, **UI consistency**, and **long-term maintainability**, rather than quick demos.
+
+---
+
+---
+
+## 📌 Disclaimer
+
+> This project is created for **educational and practice purposes**.
+> UI references and visual resources used in this project are sourced from **publicly available materials on the internet** and are used **solely for non-commercial learning purposes**.
+> No copyright infringement is intended.
 
 ---
